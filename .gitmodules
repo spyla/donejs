@@ -10,3 +10,6 @@
 [submodule "mxui"]
 	path = mxui
 	url = git://github.com/jupiterjs/mxui.git
+[submodule "can"]
+	path = can
+	url = git://github.com/jupiterjs/canjs.git
