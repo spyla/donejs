@@ -7,3 +7,4 @@ scripts/key
 html/
 app.js
 node_modules
+*.orig
