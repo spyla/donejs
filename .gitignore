@@ -5,3 +5,6 @@ docs/*
 scripts/key
 .DS_Store
 html/
+app.js
+node_modules
+*.orig
