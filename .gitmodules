@@ -13,3 +13,6 @@
 [submodule "can"]
 	path = can
 	url = git://github.com/jupiterjs/canjs.git
+[submodule "jquery"]
+	path = jquery
+	url = git://github.com/jupiterjs/jquerymx.git
